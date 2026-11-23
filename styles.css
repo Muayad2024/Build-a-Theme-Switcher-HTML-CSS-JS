@@ -33,3 +33,20 @@ body.theme-ocean {
 body.theme-nord {
   background-color: rgb(75, 61, 61);
 }
+
+
+#theme-switcher-button {
+    background-color: beige;
+    border: none;
+    height: 50px;
+    width: 140px; 
+    margin: 10px;
+}
+
+#theme-dropdown {
+    background-color: white;
+    border: none;
+    height: 50px;
+    width: 140px; 
+    margin-left: 30px;
+}
